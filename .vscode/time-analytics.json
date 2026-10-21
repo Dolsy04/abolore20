@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "project": {
+    "totalFocusTime": 653325,
+    "totalActiveTime": 14668
+  },
+  "files": {
+    "src/features/Epistle.jsx": {
+      "pending": 0,
+      "focus": 48
+    },
+    "src/features/Game.jsx": {
+      "pending": 0,
+      "focus": 33628
+    },
+    "src/features/Questions.jsx": {
+      "pending": 0,
+      "focus": 452812
+    },
+    "public/features/questions/questions.json": {
+      "pending": 0,
+      "focus": 30699
+    },
+    "src/App.jsx": {
+      "pending": 0,
+      "focus": 25150
+    },
+    "public/data/config.json": {
+      "pending": 14668,
+      "focus": 265754
+    }
+  }
+}
